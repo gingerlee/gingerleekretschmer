@@ -1,3 +1,13 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+/* More info: https://bit.ly/2PsCnzk */
+* + * {
+    margin-top: 1rem;
+  }
+
 html,
 body {
     margin: 0;
@@ -9,4 +19,106 @@ body {
     background-color: #fff;
     color: #000;
     font-family: "Roboto Mono", monospace;
+}
+
+::selection {
+    background-color: rgb(255, 9, 86);
+    color: #00ffff;
+}
+
+h1 {
+    font-weight: 400;
+}
+
+h2 {
+    color: #222;
+    font-weight: 300;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 9, 86);
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+.container {
+    margin: 2rem auto;
+    max-width: 500px;
+}
+
+@media (max-width: 500px) {
+    .container {
+      padding: 1rem;
+    }
+}
+
+.header-text {
+    max-width: 350px;
+}
+
+
+.fade-in {
+    animation: fadeIn ease 1s;
+    -webkit-animation: fadeIn ease 1s;
+    -moz-animation: fadeIn ease 1s;
+    -o-animation: fadeIn ease 1s;
+    -ms-animation: fadeIn ease 1s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity:0;
+        transform: translateY(10px);
+    }
+    100% {
+        opacity:1;
+        transform: translateY(0);
+    }
+}
+
+@-moz-keyframes fadeIn {
+    0% {
+        opacity:0;
+        transform: translateY(10px);
+    }
+    100% {
+        opacity:1;
+        transform: translateY(0);
+    }
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity:0;
+        transform: translateY(10px);
+    }
+    100% {
+        opacity:1;
+        transform: translateY(0);
+    }
+}
+
+@-o-keyframes fadeIn {
+    0% {
+        opacity:0;
+        transform: translateY(10px);
+    }
+    100% {
+        opacity:1;
+        transform: translateY(0);
+    }
+}
+
+@-ms-keyframes fadeIn {
+    0% {
+        opacity:0;
+        transform: translateY(10px);
+    }
+    100% {
+        opacity:1;
+        transform: translateY(0);
+    }
 }
