@@ -32,13 +32,11 @@ body.dark-mode {
 }
 
 h1 {
-    /* font-family: 'Futura', 'Century Gothic', Helvetica, sans-serif; */
-    font-weight: 200;
+    font-size: 48px;
+    font-weight: 400;
 }
 
 h2 {
-    /* font-family: 'Futura', 'Century Gothic', Helvetica, sans-serif; */
-    color:#00ffff;
     font-weight: 300;
 }
 
