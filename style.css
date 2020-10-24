@@ -32,6 +32,7 @@ body.dark-mode {
 }
 
 h1 {
+
     font-size: 48px;
     font-weight: 400;
 }
@@ -40,13 +41,26 @@ h2 {
     font-weight: 300;
 }
 
+.gradient-text {
+    background: linear-gradient(264.51deg, #FFE580 4.38%, #FF7571 11.51%, #FF7270 25.06%, #EA5DAD 36.04%, #C2A0FD 47.63%, #9867F0 59.03%, #3BF0E4 69.96%, #33CE43 83.74%, #B2F4B6 95.62%);
+    background-clip: text;
+    background-position: 58% 50%;
+    background-size: 500%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-animation: gadientShift 100s ease infinite;
+    -moz-animation: gadientShift 100s ease infinite;
+    animation: gadientShift 100s ease infinite;
+}
+
 a {
     text-decoration: none;
     color: rgb(255, 9, 86);
+    transition: color 350ms ease;
 }
 
 a:hover {
-    font-weight: bold;
+    color: #00ffff;
     cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto; /*!emojicursor.app*/
 }
 
@@ -65,7 +79,7 @@ a:hover {
     max-width: 350px;
 }
 
-
+/* Animations */
 .fade-in {
     animation: fadeIn ease 1s;
     -webkit-animation: fadeIn ease 1s;
@@ -129,6 +143,24 @@ a:hover {
     }
 }
 
+@-webkit-keyframes gadientShift {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes gadientShift {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes gadientShift {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+
+
+/* Dark Mode */
 .dark-mode-toggler {
     position: fixed;
     top: 5px;
