@@ -16,28 +16,22 @@ body {
 }
 
 body {
-    background-color: #fff;
+    background: #fff;
     color: #222;
     font-family: "Roboto Mono", monospace;
 }
 
 body.dark-mode {
-  background-color: #222;
+  background: #222;
   color: #fff;
 }
 
 ::selection {
-    background-color: rgb(255, 9, 86);
-    color: #00ffff;
-}
-
-.gradient-text::selection {
-    background-color: rgb(255, 9, 86);
+    background: rgb(255, 9, 86);
     color: #00ffff;
 }
 
 h1 {
-
     font-size: 48px;
     font-weight: 400;
 }
