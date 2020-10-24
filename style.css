@@ -31,6 +31,11 @@ body.dark-mode {
     color: #00ffff;
 }
 
+.gradient-text::selection {
+    background-color: rgb(255, 9, 86);
+    color: #00ffff;
+}
+
 h1 {
 
     font-size: 48px;
@@ -38,14 +43,16 @@ h1 {
 }
 
 h2 {
-    font-weight: 300;
+    font-size: 24px;
+    font-weight: 400;
+    max-width: 370px;
 }
 
 .gradient-text {
     background: linear-gradient(264.51deg, #FFE580 4.38%, #FF7571 11.51%, #FF7270 25.06%, #EA5DAD 36.04%, #C2A0FD 47.63%, #9867F0 59.03%, #3BF0E4 69.96%, #33CE43 83.74%, #B2F4B6 95.62%);
     background-clip: text;
     background-position: 58% 50%;
-    background-size: 500%;
+    background-size: 300% 300%;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     -webkit-animation: gadientShift 100s ease infinite;
@@ -65,18 +72,23 @@ a:hover {
 }
 
 .container {
-    margin: 2rem auto;
-    max-width: 500px;
+    margin: 4rem auto;
+    max-width: 1440px;
+    padding: 1.5rem;
 }
 
 @media (max-width: 500px) {
     .container {
       padding: 1rem;
     }
+
+    h1 {
+        font-size: 48px;
+    }
 }
 
 .header-text {
-    max-width: 350px;
+    max-width: 550px;
 }
 
 /* Animations */
@@ -207,14 +219,14 @@ a:hover {
 }
 
   .dark-mode-toggler input[type="checkbox"]:checked + label::before {
-    background: #000;
+    background: #222;
     border: 2px solid #fff;
     cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto; /*!emojicursor.app*/
 
 }
   .dark-mode-toggler input[type="checkbox"]:checked + label::after {
     left: -28px;
-    background: #000;
+    background: #222;
     border: 2px solid #fff;
     transition: all 0.4s ease-in;
     cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto; /*!emojicursor.app*/
