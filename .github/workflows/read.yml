@@ -1,7 +1,6 @@
 on:
     issues:
       types: opened
-
   jobs:
     update_library:
       runs-on: macOS-latest
