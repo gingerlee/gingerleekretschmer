@@ -1,4 +1,26 @@
 
+  - isbn: "9781603587396"
+    dateFinished: "2020-10-24"
+    notes: "Fun and informative nature read. Beaver people are fanatical - probably for a good reason. "
+    title: "Eager"
+    authors:
+      - "Ben Goldfarb"
+    publishedDate: "2018-06-27"
+    description: "In Eager, environmental journalist Ben Goldfarb reveals that our modern idea of what a healthy landscape looks like and how it functions is wrong, distorted by the fur trade that once trapped out millions of beavers from North America's lakes and rivers. The consequences of losing beavers were profound: streams eroded, wetlands dried up, and species from salmon to swans lost vital habitat. Today, a growing coalition of \"Beaver Believers\"--including scientists, ranchers, and passionate citizens--recognizes that ecosystems with beavers are far healthier, for humans and non-humans alike, than those without them. From the Nevada deserts to the Scottish highlands, Believers are now hard at work restoring these industrious rodents to their former haunts. Eager is a powerful story about one of the world's most influential species, how North America was colonized, how our landscapes have changed over the centuries, and how beavers can help us fight drought, flooding, wildfire, extinction, and the ravages of climate change. Ultimately, it's about how we can learn to coexist, harmoniously and even beneficially, with our fellow travelers on this planet."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781603587396"
+      - type: "ISBN_10"
+        identifier: "160358739X"
+    pageCount: 304
+    printType: "BOOK"
+    categories:
+      - "Beavers"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=n_pcDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=n_pcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Eager.html?hl=&id=n_pcDwAAQBAJ"
   - isbn: "9780062888433"
     dateFinished: "2020-10-28"
     notes: "Pretty depressing, but also lots to be hopeful for and good philosophy talk."
