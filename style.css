@@ -23,9 +23,8 @@ body {
     font-family: "Roboto Mono", monospace;
 }
 
-body.dark-mode {
-  background: #000814;
-  color: #fff;
+body.hotdog-mode {
+    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto; /*!emojicursor.app*/
 }
 
 ::selection {
@@ -64,7 +63,10 @@ a {
 
 a:hover {
     color: #00ffff;
-    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto; /*!emojicursor.app*/
+}
+
+body.hotdog-mode a:hover {
+    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto; !emojicursor.app
 }
 
 canvas {
@@ -175,7 +177,7 @@ canvas {
 }
 
 
-/* Dark Mode */
+/* Toggler */
 .dark-mode-toggler {
     position: fixed;
     top: 5px;
@@ -201,8 +203,7 @@ canvas {
     position: absolute;
     top: 0px;
     left: -65px;
-    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto; /*!emojicursor.app*/
-
+    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto;
 }
 
 .dark-mode-toggler input[type="checkbox"] + label::after {
@@ -217,21 +218,18 @@ canvas {
     top: 3px;
     left: -62px;
     transition: all 0.4s ease-in;
-    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto; /*!emojicursor.app*/
-
+    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto;
 }
 
   .dark-mode-toggler input[type="checkbox"]:checked + label::before {
     background: transparent;
     border: 2px solid #fff;
-    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto; /*!emojicursor.app*/
-
+   cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto;
 }
   .dark-mode-toggler input[type="checkbox"]:checked + label::after {
     left: -28px;
     background: transparent;
     border: 2px solid #fff;
     transition: all 0.4s ease-in;
-    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto; /*!emojicursor.app*/
-
+    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto;
 }
