@@ -65,3 +65,26 @@
       thumbnail: "http://books.google.com/books/content?id=v9LMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Splendid_and_the_Vile.html?hl=&id=v9LMDwAAQBAJ"
+  - isbn: "9780525541875"
+    dateFinished: "2020-12-11"
+    notes: "Loving learning about Stoicism so much, hope to keep it up and read some of the original texts like Meditations by Marcus Aurelius. "
+    title: "Lives of the Stoics"
+    authors:
+      - "Ryan Holiday"
+      - "Stephen Hanselman"
+    publishedDate: "2020"
+    description: "Holiday and Hanselman present the ... lives of the men and women who strove to live by the timeless Stoic virtues of courage, justice, temperance, [and] wisdom. Organized in digestible, mini-biographies of all the well-known--and not so well-known--Stoics, this book ... brings home what Stoicism was like for the people who loved it and lived it, dusting off powerful lessons to be learned from their struggles and successes. More than a mere history book, every example in these pages, from Epictetus to Marcus Aurelius--slaves to emperors--is designed to help the reader apply philosophy in their own lives…"
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780525541875"
+      - type: "ISBN_10"
+        identifier: "052554187X"
+    pageCount: 352
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=J1j6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=J1j6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Lives_of_the_Stoics.html?hl=&id=J1j6DwAAQBAJ"
