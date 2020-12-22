@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Read
-        uses: ./
+        uses: katydecorah/images-to-s3-action@v1.4.0
         # with:
         # change the output file of your books
         # readFileName: "_data/books.yml"
