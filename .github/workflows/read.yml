@@ -12,7 +12,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Read
-        uses: katydecorah/read-action@v0.1.0
+        uses: ./
+        # with:
+        # change the output file of your books
+        # readFileName: "_data/books.yml"
+        # change the list of providers
+        # providers: "openlibrary"
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"

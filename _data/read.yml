@@ -43,3 +43,48 @@
       thumbnail: "http://books.google.com/books/content?id=VfXTwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Everything_Is_F_cked.html?hl=&id=VfXTwQEACAAJ"
+  - isbn: "9780385348713"
+    dateFinished: "2020-11-07"
+    notes: "Didn't really think I was into history, but Churchill is fascinating and this is so well written. I especially loved the journal extractions from his at the time 17 year old daughter Marie. "
+    title: "The Splendid and the Vile"
+    authors:
+      - "Erik Larson"
+    publishedDate: "2020"
+    description: "The #1 New York Times bestselling author of The Devil in the White City and Dead Wake delivers a fresh and compelling portrait of Winston Churchill and London during the Blitz On Winston Churchill's first day as prime minister, Adolf Hitler invaded Holland and Belgium. Poland and Czechoslovakia had already fallen, and the Dunkirk evacuation was just two weeks away. For the next twelve months, Hitler would wage a relentless bombing campaign, killing 45,000 Britons. It was up to Churchill to hold his country together and persuade President Franklin Roosevelt that Britain was a worthy ally--and willing to fight to the end. In The Splendid and the Vile, Erik Larson shows, in cinematic detail, how Churchill taught the British people \"the art of being fearless.\" It is a story of political brinkmanship, but it's also an intimate domestic drama, set against the backdrop of Churchill's prime-ministerial country home, Chequers; his wartime retreat, Ditchley, where he and his entourage go when the moon is brightest and the bombing threat is highest; and of course 10 Downing Street in London. Drawing on diaries, original archival documents, and once-secret intelligence reports--some released only recently--Larson provides a new lens on London's darkest year through the day-to-day experience of Churchill and his family: his wife, Clementine; their youngest daughter, Mary, who chafes against her parents' wartime protectiveness; their son, Randolph, and his beautiful, unhappy wife, Pamela; Pamela's illicit lover, a dashing American emissary; and the advisers in Churchill's \"Secret Circle,\" to whom he turns in the hardest moments. The Splendid and the Vile takes readers out of today's political dysfunction and back to a time of true leadership, when, in the face of unrelenting horror, Churchill's eloquence, courage, and perseverance bound a country, and a family, together."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780385348713"
+      - type: "ISBN_10"
+        identifier: "0385348711"
+    pageCount: 608
+    printType: "BOOK"
+    categories:
+      - "History"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=v9LMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=v9LMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Splendid_and_the_Vile.html?hl=&id=v9LMDwAAQBAJ"
+  - isbn: "9780525541875"
+    dateFinished: "2020-12-11"
+    notes: "Loving learning about Stoicism so much, hope to keep it up and read some of the original texts like Meditations by Marcus Aurelius. "
+    title: "Lives of the Stoics"
+    authors:
+      - "Ryan Holiday"
+      - "Stephen Hanselman"
+    publishedDate: "2020"
+    description: "Holiday and Hanselman present the ... lives of the men and women who strove to live by the timeless Stoic virtues of courage, justice, temperance, [and] wisdom. Organized in digestible, mini-biographies of all the well-known--and not so well-known--Stoics, this book ... brings home what Stoicism was like for the people who loved it and lived it, dusting off powerful lessons to be learned from their struggles and successes. More than a mere history book, every example in these pages, from Epictetus to Marcus Aurelius--slaves to emperors--is designed to help the reader apply philosophy in their own lives…"
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780525541875"
+      - type: "ISBN_10"
+        identifier: "052554187X"
+    pageCount: 352
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=J1j6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=J1j6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Lives_of_the_Stoics.html?hl=&id=J1j6DwAAQBAJ"
