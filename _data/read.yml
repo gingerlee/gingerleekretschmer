@@ -65,6 +65,20 @@
       thumbnail: "http://books.google.com/books/content?id=v9LMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Splendid_and_the_Vile.html?hl=&id=v9LMDwAAQBAJ"
+  - isbn: "9781788162067"
+    dateFinished: "2020-12-06"
+    notes: "Started the year off with this book, re-read it with my dev book club this year. "
+    title: "Stillness Is the Key"
+    publishedDate: "2020"
+    authors:
+      - "Ryan Holiday"
+    description: "An Ancient Strategy for Modern Life"
+    industryIdentifiers: []
+    pageCount: 288
+    printType: "BOOK"
+    categories: []
+    imageLinks:
+    language: "en"
   - isbn: "9780525541875"
     dateFinished: "2020-12-11"
     notes: "Loving learning about Stoicism so much, hope to keep it up and read some of the original texts like Meditations by Marcus Aurelius. "
