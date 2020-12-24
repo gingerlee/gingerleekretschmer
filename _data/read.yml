@@ -107,6 +107,28 @@
       thumbnail: "http://books.google.com/books/content?id=v9LMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Splendid_and_the_Vile.html?hl=&id=v9LMDwAAQBAJ"
+  - isbn: "0735213615"
+    dateFinished: "2020-11-07"
+    notes: "Yessss, this was so inspiring and awesome info about nostral breathing and it's benefits. My husband said this book was 'life-changing'!! I agree. We also started taping our mouths at night, 🙀!!"
+    title: "Breath"
+    authors:
+      - "James Nestor"
+    publishedDate: "2020"
+    description: "No matter what you eat, how much you exercise, how skinny or young or wise you are, none of it matters if you're not breathing properly. There is nothing more essential to our health and well-being than breathing: take air in, let it out, repeat 25,000 times a day. Yet, as a species, humans have lost the ability to breathe correctly, with grave consequences. Journalist James Nestor travels the world to figure out what went wrong and how to fix it. The answers aren't found in pulmonology labs, as we might expect, but in the muddy digs of ancient burial sites, secret Soviet facilities, New Jersey choir schools, and the smoggy streets of São Paulo. Nestor tracks down men and women exploring the hidden science behind ancient breathing practices like Pranayama, Sudarshan Kriya, and Tummo and teams up with pulmonary tinkerers to scientifically test long-held beliefs about how we breathe. Modern research is showing us that making even slight adjustments to the way we inhale and exhale can jump-start athletic performance; rejuvenate internal organs; halt snoring, asthma, and autoimmune disease; and even straighten scoliotic spines. None of this should be possible, and yet it is. Drawing on thousands of years of medical texts and recent cutting-edge studies in pulmonology, psychology, biochemistry, and human physiology, Breath turns the conventional wisdom of what we thought we knew about our most basic biological function on its head. You will never breathe the same again."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0735213615"
+      - type: "ISBN_13"
+        identifier: "9780735213616"
+    pageCount: 304
+    printType: "BOOK"
+    categories:
+      - "Health & Fitness"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=wZPMywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=wZPMywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Breath.html?hl=&id=wZPMywEACAAJ"
   - isbn: "9780525541875"
     dateFinished: "2020-12-01"
     notes: "Getting more and more into history and what wisdom it lends to my daily life, only took me 37 years to truly appreciate it 🤪"
