@@ -19,6 +19,28 @@
       thumbnail: "http://books.google.com/books/content?id=G9cgzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Range.html?hl=&id=G9cgzAEACAAJ"
+  - isbn: "0307273601"
+    dateFinished: "2020-10-10"
+    notes: "There truly is magic in the mundane "
+    title: "Daily Rituals"
+    authors:
+      - "Mason Currey"
+    publishedDate: "2013"
+    description: "From Beethoven and Kafka to George Sand, Picasso and Agatha Christie, this compilation of letters, diaries and interviews reveals the profound fusion of discipline and dissipation through which the artistic temperament is allowed to evolve, recharge and emerge. 20,000 first printing."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780307273604"
+      - type: "ISBN_10"
+        identifier: "0307273601"
+    pageCount: 278
+    printType: "BOOK"
+    categories:
+      - "History"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=ymfYPOaN6VEC&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=ymfYPOaN6VEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Daily_Rituals.html?hl=&id=ymfYPOaN6VEC"
   - isbn: "9780767907699"
     dateFinished: "2020-10-15"
     notes: "Instrument Tech Lead Book Club selection, so great for any work place, old but the concepts still apply, this book was super helpful and the discussions around it were invaluable for our teams. "
