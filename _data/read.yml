@@ -167,3 +167,25 @@
       thumbnail: "http://books.google.com/books/content?id=J1j6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Lives_of_the_Stoics.html?hl=&id=J1j6DwAAQBAJ"
+  - isbn: "1451636024"
+    dateFinished: "2020-12-12"
+    notes: "☁️Heady but mostly great"
+    title: "Waking Up"
+    authors:
+      - "Sam Harris"
+    publishedDate: "2015-06-16"
+    description: "A guide to meditation as a rational spiritual practice informed by neuroscience and psychology considers how to learn from the examples of religious sages and saints from a secular and philosophical perspective without formally committing to religion. 100,000 first printing."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781451636024"
+      - type: "ISBN_10"
+        identifier: "1451636024"
+    pageCount: 256
+    printType: "BOOK"
+    categories:
+      - "Body, Mind & Spirit"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=4E0ADAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=4E0ADAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Waking_Up.html?hl=&id=4E0ADAAAQBAJ"
