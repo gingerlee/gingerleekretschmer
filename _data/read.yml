@@ -107,6 +107,26 @@
       thumbnail: "http://books.google.com/books/content?id=y3CyRurE7P4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Fahrenheit_451.html?hl=&id=y3CyRurE7P4C"
+  - isbn: "9780525576716"
+    dateFinished: "2020-11-04"
+    notes: "Wow, this really hit deep. A day hasn't passed that I don't think about this book and it's message since reading it. We all need to read this book!"
+    title: "The Uninhabitable Earth"
+    authors:
+      - "David Wallace-Wells"
+    publishedDate: "2020-03-17"
+    description: "#1 NEW YORK TIMES BESTSELLER * \"The Uninhabitable Earth hits you like a comet, with an overflow of insanely lyrical prose about our pending Armageddon.\"--Andrew Solomon, author of The Noonday Demon With a new afterword It is worse, much worse, than you think. If your anxiety about global warming is dominated by fears of sea-level rise, you are barely scratching the surface of what terrors are possible--food shortages, refugee emergencies, climate wars and economic devastation. An \"epoch-defining book\" (The Guardian) and \"this generation's Silent Spring\" (The Washington Post), The Uninhabitable Earth is both a travelogue of the near future and a meditation on how that future will look to those living through it--the ways that warming promises to transform global politics, the meaning of technology and nature in the modern world, the sustainability of capitalism and the trajectory of human progress. The Uninhabitable Earth is also an impassioned call to action. For just as the world was brought to the brink of catastrophe within the span of a lifetime, the responsibility to avoid it now belongs to a single generation--today's. Praise for The Uninhabitable Earth \"The Uninhabitable Earth is the most terrifying book I have ever read. Its subject is climate change, and its method is scientific, but its mode is Old Testament. The book is a meticulously documented, white-knuckled tour through the cascading catastrophes that will soon engulf our warming planet.\"--Farhad Manjoo, The New York Times \"Riveting. . . . Some readers will find Mr. Wallace-Wells's outline of possible futures alarmist. He is indeed alarmed. You should be, too.\"--The Economist \"Potent and evocative. . . . Wallace-Wells has resolved to offer something other than the standard narrative of climate change. . . . He avoids the 'eerily banal language of climatology' in favor of lush, rolling prose.\"--Jennifer Szalai, The New York Times \"The book has potential to be this generation's Silent Spring.\"--The Washington Post \"The Uninhabitable Earth, which has become a best seller, taps into the underlying emotion of the day: fear. . . . I encourage people to read this book.\"--Alan Weisman, The New York Review of Books"
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780525576716"
+      - type: "ISBN_10"
+        identifier: "0525576711"
+    pageCount: 384
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=HWbRDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=HWbRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Uninhabitable_Earth.html?hl=&id=HWbRDwAAQBAJ"
   - isbn: "9780385348713"
     dateFinished: "2020-11-07"
     notes: "Didn't really think I was into history, but Churchill is fascinating and this is so well written. I especially loved the journal extractions from his at the time 17 year old daughter Marie. "
