@@ -19,6 +19,28 @@
       thumbnail: "http://books.google.com/books/content?id=G9cgzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Range.html?hl=&id=G9cgzAEACAAJ"
+  - isbn: "9780767907699"
+    dateFinished: "2020-10-15"
+    notes: "Instrument Tech Lead Book Club selection, so great for any work place, old but the concepts still apply, this book was super helpful and the discussions around it were invaluable for our teams. "
+    title: "Slack"
+    authors:
+      - "Tom DeMarco"
+    publishedDate: "2002"
+    description: "Argues that the \"lean and mean\" corporate model of workaholism and downsizing is proving counterproductive, explaining how companies can implement downtime, promote flexibility, and foster creativity as part of realizing increased revenues. Reprint."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780767907699"
+      - type: "ISBN_10"
+        identifier: "0767907698"
+    pageCount: 227
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=563gvssRPvkC&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=563gvssRPvkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Slack.html?hl=&id=563gvssRPvkC"
   - isbn: "9781603587396"
     dateFinished: "2020-10-24"
     notes: "Fun and informative nature read. Beaver people are fanatical - probably for a good reason. "
