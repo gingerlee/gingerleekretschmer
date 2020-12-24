@@ -129,6 +129,28 @@
       thumbnail: "http://books.google.com/books/content?id=wZPMywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Breath.html?hl=&id=wZPMywEACAAJ"
+  - isbn: "9780062349477"
+    dateFinished: "2020-11-16"
+    notes: "After reading Breath, I needed more - this was so great, really focuses on exercise and breath and the importance of nostril breathing and Buteyko breathing practices to increase performance and health. "
+    title: "The Oxygen Advantage"
+    authors:
+      - "Patrick McKeown"
+    publishedDate: "2016-11-29"
+    description: "A simple yet revolutionary approach to improving your body’s oxygen use, increasing your health, weight loss, and sports performance—whether you’re a recovering couch potato or an Ironman triathlon champion. With a foreword by New York Times bestselling author Dr. Joseph Mercola. Achieve more with less effort: The secret to weight loss, fitness, and wellness lies in the most basic and most overlooked function of your body—how you breathe. One of the biggest obstacles to better health and fitness is a rarely identified problem: chronic over-breathing. We often take many more breaths than we need—without realizing it—contributing to poor health and fitness, including a host of disorders, from anxiety and asthma to insomnia and heart problems. In The Oxygen Advantage, the man who has trained over 5,000 people—including Olympic and professional athletes—in reduced breathing exercises now shares his scientifically validated techniques to help you breathe more efficiently. Patrick McKeown teaches you the fundamental relationship between oxygen and the body, then gets you started with a Body Oxygen Level Test (BOLT) to determine how efficiently your body uses oxygen. He then shows you how to increase your BOLT score by using light breathing exercises and learning how to simulate high altitude training, a technique used by Navy SEALs and professional athletes to help increase endurance, weight loss, and vital red blood cells to dramatically improve cardio-fitness. Following his program, even the most out-of-shape person (including those with chronic respiratory conditions such as asthma) can climb stairs, run for a bus, or play soccer without gasping for air, and everyone can achieve: Easy weight loss and weight maintenance Improved sleep and energy Increased concentration Reduced breathlessness during exercise Heightened athletic performance Improved cardiovascular health Elimination of asthmatic symptoms, and more. With The Oxygen Advantage, you can look better, feel better, and do more—it’s as easy as breathing."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "0062349473"
+      - type: "ISBN_13"
+        identifier: "9780062349477"
+    pageCount: 288
+    printType: "BOOK"
+    categories:
+      - "Health & Fitness"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=hEkajwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=hEkajwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Oxygen_Advantage.html?hl=&id=hEkajwEACAAJ"
   - isbn: "9780525541875"
     dateFinished: "2020-12-01"
     notes: "Getting more and more into history and what wisdom it lends to my daily life, only took me 37 years to truly appreciate it 🤪"
