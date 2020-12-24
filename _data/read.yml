@@ -173,6 +173,28 @@
       thumbnail: "http://books.google.com/books/content?id=hEkajwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/The_Oxygen_Advantage.html?hl=&id=hEkajwEACAAJ"
+  - isbn: "9780375725609"
+    dateFinished: "2020-11-25"
+    notes: "Read this after the Splendid and the Vile, love his storytelling and wow, cannot believe this all happened!"
+    title: "The Devil in the White City"
+    authors:
+      - "Erik Larson"
+    publishedDate: "2004"
+    description: "An account of the Chicago World's Fair of 1893 relates the stories of two men who shaped the history of the event--architect Daniel H. Burnham, who coordinated its construction, and serial killer Herman Mudgett."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780375725609"
+      - type: "ISBN_10"
+        identifier: "0375725601"
+    pageCount: 447
+    printType: "BOOK"
+    categories:
+      - "History"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=1g2PDQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=1g2PDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/The_Devil_in_the_White_City.html?hl=&id=1g2PDQAAQBAJ"
   - isbn: "9780525541875"
     dateFinished: "2020-12-01"
     notes: "Getting more and more into history and what wisdom it lends to my daily life, only took me 37 years to truly appreciate it 🤪"
