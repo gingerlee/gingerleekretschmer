@@ -233,3 +233,25 @@
       thumbnail: "http://books.google.com/books/content?id=4E0ADAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Waking_Up.html?hl=&id=4E0ADAAAQBAJ"
+  - isbn: "9780060753641"
+    dateFinished: "2020-12-12"
+    notes: "Lovely reminder about all the nuances of a relationship. "
+    title: "Mating in Captivity"
+    authors:
+      - "Esther Perel"
+    publishedDate: "2007-10-30"
+    description: "One of the world’s most respected voices on erotic intelligence, Esther Perel offers a bold, provocative new take on intimacy and sex. Mating in Captivity invites us to explore the paradoxical union of domesticity and sexual desire, and explains what it takes to bring lust home. Drawing on more than twenty years of experience as a couples therapist, Perel examines the complexities of sustaining desire. Through case studies and lively discussion, Perel demonstrates how more exciting, playful, and even poetic sex is possible in long-term relationships. Wise, witty, and as revelatory as it is straightforward, Mating in Captivity is a sensational book that will transform the way you live and love."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9780060753641"
+      - type: "ISBN_10"
+        identifier: "0060753641"
+    pageCount: 272
+    printType: "BOOK"
+    categories:
+      - "Psychology"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=Veaw6UQsczUC&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=Veaw6UQsczUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Mating_in_Captivity.html?hl=&id=Veaw6UQsczUC"
