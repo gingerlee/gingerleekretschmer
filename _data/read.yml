@@ -1,4 +1,26 @@
 
+  - isbn: "1524732958"
+    dateFinished: "2020-10-08"
+    notes: "Even more magic when talking about female creatives, the balance of family life and creativity and work is a real one, something I am constantly working on. Lots of interesting figures and stories in here. "
+    title: "Daily Rituals: Women at Work"
+    authors:
+      - "Mason Currey"
+    publishedDate: "2019-03-05"
+    description: "This is a Borzoi book published by Alfred A. Knopf."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781524732950"
+      - type: "ISBN_10"
+        identifier: "1524732958"
+    pageCount: 416
+    printType: "BOOK"
+    categories:
+      - "History"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=PLqHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=PLqHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Daily_Rituals_Women_at_Work.html?hl=&id=PLqHDwAAQBAJ"
   - isbn: "9781509843527"
     dateFinished: "2020-10-10"
     notes: "Loved this insight to really how I approach life, and my love for so many things and hobbies"
