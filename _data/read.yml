@@ -1,4 +1,24 @@
 
+  - isbn: "9781509843527"
+    dateFinished: "2020-10-10"
+    notes: "Loved this insight to really how I approach life, and my love for so many things and hobbies"
+    title: "Range"
+    authors:
+      - "David Epstein"
+    publishedDate: "2020-07"
+    description: "The instant Sunday Times Top Ten and New York Times bestseller SHORTLISTED FOR THE FINANCIAL TIMES/MCKINSEY BUSINESS BOOK OF THE YEAR AWARD 2019 A Financial Times Essential Reads of 2019 pick 'I loved Range' - Malcolm Gladwell 'Urgent and important. . . an essential read for bosses, parents, coaches, and anyone who cares about improving performance.' - Daniel H. Pink 'So much crucial and revelatory information about performance, success, and education.' - Susan Cain, bestselling author of Quiet A powerful argument for how to succeed in any field: develop broad interests and skills while everyone around you is rushing to specialize. From the '10,000 hours rule' to the power of Tiger parenting, we have been taught that success in any field requires early specialization and many hours of deliberate practice. And, worse, that if you dabble or delay, you'll never catch up with those who got a head start. This is completely wrong. In this landmark book, David Epstein shows you that the way to succeed is by sampling widely, gaining a breadth of experiences, taking detours, experimenting relentlessly, juggling many interests - in other words, by developing range. Studying the world's most successful athletes, artists, musicians, inventors and scientists, Epstein demonstrates why in most fields - especially those that are complex and unpredictable - generalists, not specialists are primed to excel. No matter what you do, where you are in life, whether you are a teacher, student, scientist, business analyst, parent, job hunter, retiree, you will see the world differently after you've read Range. You'll understand better how we solve problems, how we learn and how we succeed. You'll see why failing a test is the best way to learn and why frequent quitters end up with the most fulfilling careers. As experts silo themselves further while computers master more of the skills once reserved for highly focused humans, Range shows how people who think broadly and embrace diverse experiences and perspectives will increasingly thrive and why spreading your knowledge across multiple domains is the key to your success, and how to achieve it."
+    industryIdentifiers:
+      - type: "ISBN_10"
+        identifier: "1509843523"
+      - type: "ISBN_13"
+        identifier: "9781509843527"
+    pageCount: 352
+    printType: "BOOK"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=G9cgzAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=G9cgzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Range.html?hl=&id=G9cgzAEACAAJ"
   - isbn: "9781603587396"
     dateFinished: "2020-10-24"
     notes: "Fun and informative nature read. Beaver people are fanatical - probably for a good reason. "
