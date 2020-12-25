@@ -19,6 +19,28 @@
       thumbnail: "http://books.google.com/books/content?id=GuAUMQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
     language: "en"
     canonicalVolumeLink: "https://books.google.com/books/about/Atomic_Habits.html?hl=&id=GuAUMQAACAAJ"
+  - isbn: "9781591846444"
+    dateFinished: "2020-09-15"
+    notes: "Good leadership lessons in this one."
+    title: "Start with why"
+    authors:
+      - "Simon Sinek"
+    publishedDate: "2011"
+    description: "Draws on real-life stories and figures, including Martin Luther King, Jr. and Steve Jobs, to examine the qualities a good leader requires in order to inspire and motivate people."
+    industryIdentifiers:
+      - type: "ISBN_13"
+        identifier: "9781591846444"
+      - type: "ISBN_10"
+        identifier: "1591846447"
+    pageCount: 246
+    printType: "BOOK"
+    categories:
+      - "Business & Economics"
+    imageLinks:
+      smallThumbnail: "http://books.google.com/books/content?id=fkOKDQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api"
+      thumbnail: "http://books.google.com/books/content?id=fkOKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    language: "en"
+    canonicalVolumeLink: "https://books.google.com/books/about/Start_with_why.html?hl=&id=fkOKDQAAQBAJ"
   - isbn: "1524732958"
     dateFinished: "2020-10-08"
     notes: "Even more magic when talking about female creatives, the balance of family life and creativity and work is a real one, something I am constantly working on. Lots of interesting figures and stories in here. "
