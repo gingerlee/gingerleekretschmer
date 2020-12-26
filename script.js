@@ -1,4 +1,5 @@
 /* Hotdog 🌭 Mode */
+
 function setModeEventListener() {
     let list = document.body.classList;
     document.getElementById("toggler").addEventListener("change", event => {
