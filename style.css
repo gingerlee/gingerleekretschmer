@@ -20,11 +20,21 @@ canvas {
 body {
     background: #000814;
     color: #fff;
+    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto; /*!emojicursor.app*/
     font-family: "Roboto Mono", monospace;
 }
 
+canvas {
+    opacity: 1;
+    transition: opacity 350ms ease;
+}
+
 body.hotdog-mode {
-    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto; /*!emojicursor.app*/
+    cursor: default;
+}
+
+body.hotdog-mode canvas {
+    opacity: 0;
 }
 
 ::selection {
@@ -50,9 +60,9 @@ h2 {
     background-size: 300% 300%;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    -webkit-animation: gadientShift 100s ease infinite;
-    -moz-animation: gadientShift 100s ease infinite;
-    animation: gadientShift 100s ease infinite;
+    -webkit-animation: gadientShift 45s ease infinite;
+    -moz-animation: gadientShift 45s ease infinite;
+    animation: gadientShift 45s ease infinite;
 }
 
 a {
@@ -178,21 +188,21 @@ canvas {
 
 
 /* Toggler */
-.dark-mode-toggler {
+.mode-toggler {
     position: fixed;
     top: 5px;
     right: 20px;
 }
 
-.dark-mode-toggler label {
+.mode-toggler label {
     position: relative;
 }
 
-.dark-mode-toggler input[type="checkbox"] {
+.mode-toggler input[type="checkbox"] {
     display: none;
 }
 
-.dark-mode-toggler input[type="checkbox"] + label::before {
+.mode-toggler input[type="checkbox"] + label::before {
     content: "";
     display: block;
     height: 26px;
@@ -206,7 +216,7 @@ canvas {
     cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto;
 }
 
-.dark-mode-toggler input[type="checkbox"] + label::after {
+.mode-toggler input[type="checkbox"] + label::after {
     content: "";
     display: block;
     height: 20px;
@@ -221,12 +231,12 @@ canvas {
     cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto;
 }
 
-  .dark-mode-toggler input[type="checkbox"]:checked + label::before {
+  .mode-toggler input[type="checkbox"]:checked + label::before {
     background: transparent;
     border: 2px solid #fff;
    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto;
 }
-  .dark-mode-toggler input[type="checkbox"]:checked + label::after {
+  .mode-toggler input[type="checkbox"]:checked + label::after {
     left: -28px;
     background: transparent;
     border: 2px solid #fff;
