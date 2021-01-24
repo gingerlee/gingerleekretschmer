@@ -43,8 +43,9 @@ body.hotdog-mode canvas {
 }
 
 h1 {
-    font-size: 48px;
-    font-weight: 400;
+    font-family: 'Josefin Sans', 'Montserrat', 'Open Sans', sans-serif;
+    font-size: 95px;
+    font-weight: 700;
 }
 
 h2 {
@@ -99,6 +100,10 @@ canvas {
 
     h1 {
         font-size: 48px;
+    }
+
+    h2 {
+        font-size: 18px;
     }
 }
 
