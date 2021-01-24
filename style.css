@@ -88,13 +88,16 @@ canvas {
 .container {
     position: absolute;
     z-index: 1;
+}
+
+.header-section {
     margin: 4rem auto;
     max-width: 1440px;
     padding: 1.5rem;
 }
 
-@media (max-width: 500px) {
-    .container {
+@media (max-width: 550px) {
+    .header-section {
       padding: 1rem;
     }
 

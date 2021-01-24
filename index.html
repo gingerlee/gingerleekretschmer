@@ -6,21 +6,21 @@
     <link rel="stylesheet" href="./style.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,700&display=swap" rel="stylesheet">
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌴</text></svg>">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌝</text></svg>">
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://unpkg.com/dont-go/lib/dont-go.js"></script>
+    
     
 </head>
 <body>
     <div class="container">
-        <div class="header-section">
+        <header class="header-section">
             <div class="header-text fade-in">
                 <h1 class="gradient-text">Ginger Lee Kretschmer</h1>
-                <h2>Frontend developer at &nbsp; <a href="https://www.instrument.com" target="blank">Instrument</a> in Portland, Oregon.</h2>
+                <h2>Frontend developer at </br><a href="https://www.instrument.com" target="blank">Instrument</a> in Portland, Oregon.</h2>
             </div>
-        </div>
+        </header>
         <div class="mode-toggler">
             <input type="checkbox" id="toggler">
             <label for="toggler" aria-label="mode toggler"></label>
@@ -28,7 +28,15 @@
     </div>
     <canvas></canvas>
 
-    
+    <script src="./dont-go.js"></script>
+    <script>
+        dontGo({
+            title: "COME BACK",
+            faviconSrc:
+              'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>😭</text></svg>',
+            timeout: 1000,
+          });
+    </script>
     <script src="./konami.js"></script>
     <script src="./script.js"></script>
     <script src="./fluid.js"></script>
