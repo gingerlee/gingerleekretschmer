@@ -44,15 +44,45 @@ body.hotdog-mode canvas {
 
 h1 {
     font-family: 'Josefin Sans', 'Montserrat', 'Open Sans', sans-serif;
-    font-size: 95px;
+    font-size: 48px;
+    font-style: italic;
     font-weight: 700;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 400;
-    max-width: 370px;
 }
+
+.header-section {
+    margin: 4rem auto;
+    max-width: 1440px;
+    padding: 1rem;
+}
+
+.header-text {
+    max-width: 550px;
+}
+
+
+@media (min-width: 550px) {
+
+    .header-section {
+        padding-left: 2rem;
+    }
+
+    h1 {
+        font-size: 95px;
+    }
+    
+    h2 {
+        font-size: 24px;
+        max-width: 370px;
+    }
+  
+}
+
+
 
 .gradient-text {
     background: linear-gradient(264.51deg, #FFE580 4.38%, #FF7571 11.51%, #FF7270 25.06%, #EA5DAD 36.04%, #C2A0FD 47.63%, #9867F0 59.03%, #3BF0E4 69.96%, #33CE43 83.74%, #B2F4B6 95.62%);
@@ -76,6 +106,10 @@ a:hover {
     color: #00ffff;
 }
 
+ul {
+    list-style: none;
+}
+
 body.hotdog-mode a:hover {
     cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto; !emojicursor.app
 }
@@ -90,29 +124,7 @@ canvas {
     z-index: 1;
 }
 
-.header-section {
-    margin: 4rem auto;
-    max-width: 1440px;
-    padding: 1.5rem;
-}
 
-@media (max-width: 550px) {
-    .header-section {
-      padding: 1rem;
-    }
-
-    h1 {
-        font-size: 48px;
-    }
-
-    h2 {
-        font-size: 18px;
-    }
-}
-
-.header-text {
-    max-width: 550px;
-}
 
 /* Animations */
 .fade-in {
