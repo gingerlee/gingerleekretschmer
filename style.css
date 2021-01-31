@@ -14,7 +14,7 @@ canvas {
 
 body {
     background: #000814;
-    color: #fff;
+    color: #fafafa;
     cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto; /*!emojicursor.app*/
     font-family: "Roboto Mono", monospace;
 }
@@ -46,7 +46,7 @@ canvas {
 
 
 h1 {
-    font-family: 'Josefin Sans', 'Montserrat', 'Open Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;    
     font-size: 48px;
     font-style: italic;
     font-weight: 700;
@@ -70,6 +70,10 @@ a:hover {
     color: #00ffff;
 }
 
+.social {
+    color: #fafafa;
+}
+
 ul {
     list-style: none;
     padding-inline-start: 0;
@@ -83,6 +87,10 @@ li {
 
     .container {
         padding-left: 2rem;
+    }
+
+    .header-section {
+        margin-bottom: 64px;
     }
 
     h1 {
