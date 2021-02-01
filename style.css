@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
     margin: 0;
 }
 
@@ -21,7 +22,7 @@ body {
 
 ::selection {
     background: rgb(255, 9, 86);
-    color: #00ffff;
+    color: #2710f2;
 }
 
 canvas {
@@ -64,14 +65,26 @@ a {
     text-decoration: none;
     color: rgb(255, 9, 86);
     transition: color 350ms ease;
+    font-weight: bold;
+    text-transform:lowercase
 }
 
-a:hover {
-    color: #00ffff;
+a:hover, a:focus {
+    color: #2710f2;
+    text-transform:uppercase;
 }
 
-.social {
-    color: #fafafa;
+.github {
+    color: #4dffff;
+}
+.linkedin {
+    color: #5bf390;
+}
+.codepen {
+    color: #ff4cff;
+}
+.goodreads {
+    color: #6060ef;
 }
 
 ul {
@@ -124,6 +137,16 @@ li {
 /* hotdog mode */
 body.hotdog-mode {
     cursor: default;
+    background-color: #fafafa;
+    color: #000814;
+}
+
+body.hotdog-mode .github {
+    color: #2710f2;
+}
+body.hotdog-mode .github:hover,
+body.hotdog-mode .github:focus {
+    color: #ff4cff;
 }
 
 body.hotdog-mode canvas {
@@ -238,7 +261,7 @@ body.hotdog-mode a:hover {
     height: 26px;
     width: 60px;
     background: transparent;
-    border: 2px solid #fff;
+    border: 2px solid #fafafa;
     border-radius: 15px;
     position: absolute;
     top: 0px;
@@ -252,7 +275,7 @@ body.hotdog-mode a:hover {
     height: 20px;
     width: 20px;
     background: transparent;
-    border: 2px solid #fff;
+    border: 2px solid #fafafa;
     border-radius: 50%;
     position: absolute;
     top: 3px;
@@ -263,13 +286,13 @@ body.hotdog-mode a:hover {
 
   .mode-toggler input[type="checkbox"]:checked + label::before {
     background: transparent;
-    border: 2px solid #fff;
+    border: 2px solid #96979c;
    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto;
 }
   .mode-toggler input[type="checkbox"]:checked + label::after {
     left: -28px;
-    background: transparent;
-    border: 2px solid #fff;
+    background: #96979c;
+    border: 2px solid  #fafafa;
     transition: all 0.4s ease-in;
     cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🌭</text></svg>") 16 0,auto;
 }
