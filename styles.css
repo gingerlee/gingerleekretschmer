@@ -47,7 +47,7 @@ canvas {
 
 
 h1 {
-    font-family: 'Josefin Sans', sans-serif;    
+    font-family: 'Josefin Sans', sans-serif;
     font-size: 48px;
     font-style: italic;
     font-weight: 700;
@@ -111,12 +111,12 @@ li {
         margin-bottom: 36px;
 
     }
-    
+
     h2 {
         font-size: 22px;
         max-width: 420px;
     }
-  
+
 }
 
 
