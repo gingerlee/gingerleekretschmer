@@ -66,7 +66,6 @@ a {
     color: rgb(255, 9, 86);
     transition: color 350ms ease;
     font-weight: bold;
-    text-transform:lowercase
 }
 
 a:hover, a:focus {
